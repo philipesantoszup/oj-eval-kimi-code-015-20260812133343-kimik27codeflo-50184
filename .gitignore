@@ -4,3 +4,5 @@ code
 *.o
 Makefile
 cmake_install.cmake
+storage.db
+*.txt
